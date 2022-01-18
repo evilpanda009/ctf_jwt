@@ -1,2 +1,2 @@
-# GSCTF  
- This is the source code for the JWT based Web Challenge for the GirlScript CTF
+# The Secret Vault  
+ This is the source code for the JWT based Web Challenge "The Secret Vault" for the GirlScript CTF
